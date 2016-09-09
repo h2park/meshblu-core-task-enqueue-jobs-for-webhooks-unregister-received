@@ -1,6 +1,6 @@
 {
   "name": "meshblu-core-task-enqueue-jobs-for-webhooks-unregister-received",
-  "version": "2.1.0",
+  "version": "1.0.0",
   "description": "Meshblu core task meshblu-core-task-enqueue-jobs-for-webhooks-unregister-received",
   "keywords": [
     "meshblu",
